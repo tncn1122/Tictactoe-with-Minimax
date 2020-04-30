@@ -14,7 +14,7 @@ Chương trình dùng để demo chơi Tictactoe dùng thuật toán Minimax. �
 
 Nếu pixel ở vị trí A có màu trắng thì chắc chắn ô đó đã được đánh, tiếp theo mình sẽ kiểm tra pixel ở vị trí B, nếu pixel B này có màu trắng thì nó đã được đánh X, và ngược lại.
 
-Kiểm tra xong 9 ô thì mình sẽ có một ma trận chứa thông tin của bàn cờ ở thời điểm hiện tại, việc tiếp theo là dùng thuật toán **[Minimax](https://vi.wikipedia.org/wiki/Minimax").** để quyết định nước đi tiếp theo thôi!
+Kiểm tra xong 9 ô thì mình sẽ có một ma trận chứa thông tin của bàn cờ ở thời điểm hiện tại, việc tiếp theo là dùng thuật toán **[Minimax](https://vi.wikipedia.org/wiki/Minimax")** để quyết định nước đi tiếp theo thôi!
 
 #### Lưu ý cách chạy chương trình
 Do mình kiểm tra các pixel bằng cách chụp màn hình và kích thước ảnh chụp, vị trí các pixel kiểm tra là cố định nên chương trình chỉ chạy đúng trên màn hình có độ phân giải FullHD và đặt vị trí tab trò chơi ở bên trái giống như trên ảnh demo.
